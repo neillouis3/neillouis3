@@ -2,7 +2,7 @@
 - 👨‍💻 3rd-Year Computer Engineering Student 
 - 💡 Passionate about Pushing the Boundaries of Software & Hardware 
 - 🖥️ Coding Enthusiast 
-- 📩 Connect with me at neillouis3.dev@gmail.com
+- 📩 Connect with me at neill03.castillon@gmail.com
 
 <!--
 **neillouis3/neillouis3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
