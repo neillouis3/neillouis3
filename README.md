@@ -14,7 +14,7 @@
         A 3rd-Year Computer Engineering Student who is passionate about software development and robotics.
       <p/>
       <p>
-        📩 Connect with me at neill03.castillon@gmail.com
+        📩 Connect with me at neillouise03@gmail.com
       <p/>
 </div>
     
