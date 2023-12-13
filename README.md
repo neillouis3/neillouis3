@@ -4,6 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neillouis3)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/neillouise.castillon.1)
 
+A 3rd-Year Computer Engineering Student who is passionate about software development and robotics.
+📩 Connect with me at neill03.castillon@gmail.com
+
 <br/><br/>
 
 
@@ -14,10 +17,6 @@
 
 
 
-# 👨‍💻 About me
-- 👨‍💻 3rd-Year Computer Engineering Student 
-- 💡 Passionate about Pushing the Boundaries of Software & Hardware 
-- 📩 Connect with me at neill03.castillon@gmail.com
 
 
 
