@@ -10,7 +10,11 @@ A 3rd-Year Computer Engineering Student who is passionate about software develop
 📩 Connect with me at neill03.castillon@gmail.com
 
 <br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neillouis3&layout=donut-vertical&theme=dark&hide_border=true)
+<div>
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neillouis3&layout=donut-vertical&theme=dark&hide_border=true" />
+  </a>
+</div>
 
 
 <div>
