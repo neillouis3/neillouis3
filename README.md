@@ -10,14 +10,14 @@ A 3rd-Year Computer Engineering Student who is passionate about software develop
 📩 Connect with me at neill03.castillon@gmail.com
 
 <br/><br/>
-<div id="image-table" align="center" display="flex">
+<div id="image-table" align="center">
   <table>
-    <div>
+    <div display="inline-block">
       <a>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neillouis3&layout=donut-vertical&theme=dark&hide_border=true" />
       </a>
     </div>
-    <div>
+    <div display="inline-block">
       <a>
         <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
       </a>
