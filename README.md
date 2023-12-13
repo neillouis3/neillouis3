@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # 👨‍💻 About me
 - 👨‍💻 3rd-Year Computer Engineering Student 
 - 💡 Passionate about Pushing the Boundaries of Software & Hardware 
