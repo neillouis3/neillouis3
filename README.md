@@ -2,6 +2,8 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neillouis3)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/neillouise.castillon.1)
+
 
 # 👨‍💻 About me
 - 👨‍💻 3rd-Year Computer Engineering Student 
@@ -21,6 +23,6 @@
 
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neillouis3&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 
