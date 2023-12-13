@@ -8,9 +8,7 @@
         <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
       </a>
 </div>
-
-
-
+<br/><br/>
 <div display="inline-block" align="center">
       <p>
         A 3rd-Year Computer Engineering Student who is passionate about software development and robotics.
