@@ -1,4 +1,5 @@
 ![Banner](banner.png)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neillouis3)
 
 # 👨‍💻 About me
 - 👨‍💻 3rd-Year Computer Engineering Student 
