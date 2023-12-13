@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-<div display="inline-block">
+<div display="inline-block" align="center">
       <a href="https://linkedin.com/in/neillouis3">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
       </a>
