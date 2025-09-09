@@ -4,14 +4,11 @@
       <a href="https://linkedin.com/in/neillouis3">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
       </a>
-      <a href="https://facebook.com/neillouise.castillon.1">
-        <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-      </a>
 </div>
 <br/><br/>
 <div display="inline-block" align="center">
       <p>
-        A 3rd-Year Computer Engineering Student who is passionate about software development and robotics.
+        A 4th-Year Computer Engineering Student who is passionate about software development and robotics.
       <p/>
       <p>
         📩 Connect with me at neillouise03@gmail.com
