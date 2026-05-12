@@ -21,10 +21,6 @@
 <div id="image-table" align="center">
   <table>
     <div display="inline-block">
-
-    </div>
-        <br/><br/>
-    <div display="inline-block">
       <a>
         <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
       </a>
