@@ -21,9 +21,7 @@
 <div id="image-table" align="center">
   <table>
     <div display="inline-block">
-      <a>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neillouis3&layout=donut-vertical&theme=dark&hide_border=true" />
-      </a>
+
     </div>
         <br/><br/>
     <div display="inline-block">
